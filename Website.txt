@@ -1,0 +1,61 @@
+
+<!doctype html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+
+        <title>Blank template</title>
+
+        <!-- Load external CSS styles -->
+        <link rel="stylesheet" href="styles.css">
+
+    </head>
+
+    <body>
+
+        <h1>The three big teams in Fromula 1</h1>
+        <!-- Load external JavaScript -->
+        <script src="scripts.js"></script>
+        
+    </body>
+<p>I have been watching Formula 1 since I was 11 years old. I have been watch these two
+    amazing teams<p> 
+</html>
+<p style="color:blue;"> Redbull-
+    </body>
+        Redbull have been in the sport since 2004. They stated out as a sponsor for suber untill 2005 were
+    the bought the Jugar Formula 1 team. In 2010 Rebull won their first Construtors and Drivers Title.
+    They would win three more Driver and Construtor title in 2011,2012 and 2013. They would win other
+    2021. In 2022 they would win both Construtor and Driver in 2022. The two Drivers driving
+    Max Verstappen and Sergio Perez. </p>
+    </boby>
+
+<img src="https://www.thedrive.com/uploads/2023/02/02/ford-red-bull-f1-lead.jpg?auto=webp" 
+width="400" height="222">
+<p style="color:red;">Ferrari - Farrari were th first ever team to join Formula 1 back in 1950.
+    Farrari were the best team on the grid for many years. They have won 15 Driver Titles and
+    16 Construtor titles, more than any other team in Formula 1. Today Farrari have been lacking
+    pace compared to Redbull. Farrari are looking to see if they can fight Redbull for the 2023
+    Driver and Construtor championship title, with there drivers Charles Leclerc and Carlos Sainz.
+</p>
+<img src="https://media.formula1.com/image/upload/content/dam/fom-website/manual/2023/Launches2023/Ferrari2023Launch/Ferrari%201.jpg.transform/9col/image.jpg"
+width="400" height="222">
+
+<p style="color:lime;">Mercedes - Mercedes came into the sport in 1954. Mercedes neverr have
+    been compared to Farrari in the 19s. Untill in 2014 were Mercedes won both Championship 
+    titls. They win for 7 years straight, untill 2021 were they fought Redbull for the
+    Cahpionship. Mercedes won the Construtor title but Redbull won the Drivers title. Today the team 
+    have been struggling to keep up with Redbull and Farrari. They will be looking to catch up to
+    both of them in 2023 with there driver Lewis Hamilton and george Russell.
+    </p>
+    <img src="https://motorsportmagazine.b-cdn.net/wp-content/uploads/2023/02/2023-Mercedes-W14-F1-car.jpg"
+    width="400" height="222">
+    <a href="https://www.formula1.com/" target="_blank">formula1.com</a>
+    <a href="https://www.google.com/search?q=formula+1+crazy+games&rlz=1C1GCEA_enUS1058US1058&ei=6URiZITFPOGw0PEPuoOvoAg&oq=formula+1+games+crazy+&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgYIABAWEB4yBggAEBYQHjIICAAQigUQhgMyCAgAEIoFEIYDOgoIABBHENYEELADOgoIABCKBRCwAxBDOg0IABDkAhDWBBCwAxgBOg8ILhCKBRDIAxCwAxBDGAI6BQgAEIAEOgcIABCKBRBDOgcILhCKBRBDOgUILhCABDoICAAQFhAeEAo6CAgAEBYQHhAPSgQIQRgAUMEJWLcxYLw8aAFwAXgAgAFPiAHjA5IBATeYAQCgAQHIARPAAQHaAQYIARABGAnaAQYIAhABGAg&sclient=gws-wiz-serp" target="_blank">Formula 1 game.com</a> 
+<html>
+<head>
+<style>
+body {
+  background-color: grey;
+}
